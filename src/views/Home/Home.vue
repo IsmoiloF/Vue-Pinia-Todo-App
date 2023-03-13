@@ -24,7 +24,7 @@
           <input type="text" class="mx-4 border border-gray-600 rounded-md" />
         </div>
         <div class="bg-sky-500 border rounded-md my-2 hover:bg-sky-600">
-          <button class="p-1 tex-white  text-[16px] mx-2">Add</button>
+          <button class="p-1 tex-white text-[16px] mx-2">Add</button>
         </div>
       </div>
     </div>
@@ -34,35 +34,37 @@
         <h1 class="p-3">Product List</h1>
       </div>
 
-      <div class=" mt-[20px] p-3">
+      <div class="mt-[20px] p-3">
         <div class="h-[2px] bg-gray-400 mb-2"></div>
         <div class="flex justify-between">
-            <div class="w-[230px]">
+          <div class="w-[230px]">
             <h1 class="">Product ID</h1>
           </div>
           <div class="w-[230px]">
             <h1 class="">Product Name</h1>
           </div>
-          <div class="w-[230px] ">
+          <div class="w-[230px]">
             <h1 class="">Product Price</h1>
           </div>
-          <div class="w-[230px] ">
+          <div class="w-[230px]">
             <h1 class="">Product Action</h1>
           </div>
         </div>
         <div class="h-[2px] bg-gray-400 mt-1"></div>
         <div class="flex justify-between mt-3">
-            <div class="w-[230px]">
+          <div class="w-[230px]">
             <h1 class="">1</h1>
           </div>
           <div class="w-[230px]">
             <h1 class="">fjewk</h1>
           </div>
-          <div class="w-[230px] ">
+          <div class="w-[230px]">
             <h1 class="">456</h1>
           </div>
           <div class="w-[230px] ">
-
+              <a href="#" class="mx-2 text-[18px]"><i class="bx bxs-trash"></i></a>
+              <a href="#" class="mx-2 text-[18px]"><i class="bx bxs-edit-alt"></i></a>
+            <a href="#" class="mx-2 text-[18px]"><i class='bx bx-show'></i></a>
           </div>
         </div>
         <div class="h-[2px] bg-gray-400 mt-1"></div>
